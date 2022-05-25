@@ -19,7 +19,7 @@
     <maven.compiler.target>1.7</maven.compiler.target>
     <jackson.version>2.9.10</jackson.version>
     <freemarker.version>2.3.28</freemarker.version>
-    <springframework.version>5.0.16.RELEASE</springframework.version>
+    <springframework.version>5.2.22.RELEASE</springframework.version>
   </properties>
 
   <dependencies>
